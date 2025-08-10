@@ -7,7 +7,7 @@
 
 
 # The URL the site will be built for
-base_url = "https://aminehochlef.github.io"
+base_url = "https://hoochlef.github.io"
 
 title = "hochlef"
 
