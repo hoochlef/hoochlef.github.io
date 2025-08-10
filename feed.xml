@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>hochlef</title>
+	<subtitle>Building smart software with Python and machine learning. Explore my projects, thoughts, and technical deep dives.</subtitle>
+	<link href="https://aminehochlef.github.io/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://aminehochlef.github.io"/>
+	<updated>2025-08-09T00:00:00+00:00</updated>
+	<id>https://aminehochlef.github.io/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Hello World, Again</title>
+		<published>2025-08-09T00:00:00+00:00</published>
+		<updated>2025-08-09T00:00:00+00:00</updated>
+		<link href="https://aminehochlef.github.io/blog/hello-world-again/" type="text/html"/>
+		<id>https://aminehochlef.github.io/blog/hello-world-again/</id>
+		<content type="html">&lt;p&gt;Welcome to my corner of the internet — my second blog in about six months and a fresh start.&lt;&#x2F;p&gt;
+&lt;p&gt;My previous blog became weighed down with clutter and distractions, which made it hard to focus on writing. This time, I’m going minimalist: a clean, fast site powered by Zola, designed to keep things simple and clear.&lt;&#x2F;p&gt;
+&lt;p&gt;Here, I’ll share thoughts, experiments, and lessons from my journey in tech — covering Python, machine learning, open-source, and even reflections on digital detox and life beyond screens.&lt;&#x2F;p&gt;
+&lt;p&gt;No noise, just ideas. Stay curious.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
