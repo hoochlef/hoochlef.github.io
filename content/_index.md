@@ -14,7 +14,7 @@ links = [
     { name = "GitHub", icon = "github", url = "https://github.com/hoochlef" },
     { name = "LinkedIn", icon = "linkedin", url = "https://www.linkedin.com/in/aminehochlef/" },
     { name = "Twitter", icon = "twitter", url = "https://twitter.com/hochamine" },
-    { name = "Email", icon = "email", url = "mailto:amin.hochlef@gmail.com" },
+    { name = "Email", icon = "email", url = "mailto:amine.hochlef@proton.me" },
 ]
 
 # Show a few recent posts in home page
