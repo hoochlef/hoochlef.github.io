@@ -68,7 +68,7 @@ anchors = "on"
 sections = [
   { name = "projects", path = "/projects", is_external = false },
   # { name = "about", path = "/about", is_external = false },
-  { name = "resume", path = "/amine_hochlef_resume.pdf", is_external = true },
+  # { name = "resume", path = "/resume.pdf", is_external = true },
   { name = "[now]", path = "/now", is_external = false },
   { name = "[blog]", path = "/blog", is_external = false },
 ]
