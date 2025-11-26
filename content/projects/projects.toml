@@ -8,7 +8,7 @@ tags = ["Django"]
 [[collection]]
 type = "card"
 title = "rato"
-link = "https://github.com/aminehochlef/business-reviews-webapp"
+link = "https://github.com/hoochlef/rato"
 content = "A multi-category business review platform built with FastAPI, SQLModel, PostgreSQL, and Next.js, featuring role-based access and AI integration via Hugging Face’s Mistral LLM. The system enables admins to moderate offensive reviews, supervisors to classify review urgency, and users to generate AI-powered business summaries—streamlining feedback management across diverse industries."
 tags = ["FastAPI", "PostgreSQL", "Next.js", "SQLModel", "Hugging Face"]
 
