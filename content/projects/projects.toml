@@ -15,7 +15,7 @@ tags = ["FastAPI", "PostgreSQL", "Next.js", "SQLModel", "Hugging Face"]
 [[collection]]
 type = "card"
 title = "analysy"
-link = "https://github.com/aminehochlef/Analysy-email-analyser"
+link = "https://github.com/hoochlef/analysy"
 content = "analysy is a web application built using Angular and Python that provides a convenient interface for managing and visualizing email data. It leverages natural language processing libraries to analyze the content of emails, extract insights, and uncover patterns that go beyond basic metadata."
 tags = ["Angular", "Flask", "NLP"]
 
