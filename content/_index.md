@@ -24,7 +24,7 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Hello, web-surfer! I'm Amine, a pragmatic software developer crafting applications—mostly in Python.
+Hello, web-surfer! I'm Amine, a pragmatic software developer crafting applications. Mostly in Python.
 
 Apart from code, I enjoy playing and trying different kinds of sports, watching movies and cooking new things.
 
