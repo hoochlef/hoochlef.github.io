@@ -22,7 +22,7 @@ tags = ["Angular", "Flask", "NLP"]
 [[collection]]
 type = "card"
 title = "hangman"
-link = "https://github.com/aminehochlef/Hangman-Python"
+link = "https://github.com/hoochlef/hangman"
 content = "Recreated the classic Hangman game using Python and the Pygame library. This project focused on implementing game logic, keyboard input handling, and rendering a responsive graphical interface. It served as a hands-on exercise in event-driven programming and working with 2D game development concepts in Python."
 tags = ["Pygame", "Python", "game-dev"]
 
