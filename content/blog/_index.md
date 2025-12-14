@@ -11,7 +11,7 @@ generate_feeds = false
 lang = "en"
 
 title = "Writings"
-subtitle = "My clever ideas put into words."
+subtitle = "reach out if you found any of this brain dump interesting it would make my day"
 
 date_format = "%b %-d, %Y"
 

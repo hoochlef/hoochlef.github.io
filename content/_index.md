@@ -8,7 +8,7 @@ footer = false
 
 name = "Amine Hochlef"
 id = "hochlef"
-bio = "Developer. Pythonic."
+# bio = "Developer. Pythonic."
 # avatar = "img/avatar.webp"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/hoochlef" },
@@ -24,10 +24,6 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Hello, web-surfer! I'm Amine, a pragmatic software developer crafting applications. Mostly in Python.
+I am a software developer driven by utility; I build applications to solve problems I encounter in daily life. My approach is adaptive, I learn the necessary tools on the spot, ensuring my skills always match the challenge at hand.
 
-Apart from code, I enjoy playing and trying different kinds of sports, watching movies and cooking new things.
-
-Usually right here there is even more information about me. I’ll probably add it back in a future iteration of this website.
-
-If my work resonates with you   and you're ambitious like me, this is a standing invitation to reach out!.
+You can read my [writing](https://hoochlef.github.io/blog/), [code](https://github.com/hoochlef), or [connect with me online](https://www.linkedin.com/in/aminehochlef/). If what I do resonates with you [reach out](mailto:amine.hochlef@proton.me).

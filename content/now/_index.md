@@ -11,7 +11,7 @@ title = "Now"
 
 I'm currently
 
-> building medtrack: a web app that tells you all the relevant information about your medication just by uploading a picture of it. (there will be more information about the app in the future iterations, and of course the repo hosted on GitHub of the first running demo).
+> building Medtrack: a web app that tells you all the relevant information about your medication just by uploading a picture of it.
 
 I earned my Bachelor’s in Computer Science in July 2025.
 
