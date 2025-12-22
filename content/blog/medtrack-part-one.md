@@ -51,6 +51,6 @@ Since we established the issues related to LLMs for this kind of task, let me in
 
 {{ figure(src="/assets/three-minutes-sketch.png", alt="app flowchart sketched in three minutes", caption="app flowchart sketched in three minutes") }}
 
-Some people would say, *since you are using a local model from OLLAMA, why don't a local LLM from OLLAMA and stop the headaches?* To that I will answer, not everybody has that kind of compute to run a respectable LLM with enough parameters, and also we still have the hallucination problem.
+Some people would say, *since you are using a local model from OLLAMA, why don't you use a local LLM from OLLAMA and stop the headaches?* To that I will answer, not everybody has that kind of compute to run a respectable LLM with enough parameters, and also we still have the hallucination problem.
 
 That's it, I will sure add some info in the future, update this post, add some other post, yeah seeya.
