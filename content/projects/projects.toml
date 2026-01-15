@@ -1,9 +1,9 @@
 [[collection]]
 type = "card"
-title = "Medtrack ~ In progress"
+title = "Medtrack"
 link = "https://github.com/hoochlef/medtrack"
-content = "Upload a picture of a medication and get the essential information instantly."
-tags = ["Django", "OCR", "LLM", "OpenFDA API"]
+content = "Upload a picture of a medication and get the essential information."
+tags = ["Django", "PaddleOCR", "Ollama"]
 
 [[collection]]
 type = "card"
